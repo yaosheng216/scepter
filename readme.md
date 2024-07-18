@@ -26,6 +26,7 @@ SCEPTER offers 3 core components:
 - [2024.01]: [SCEdit](https://arxiv.org/abs/2312.11392) support controllable image synthesis for training and inference.
 - [2023.12]: We propose [SCEdit](https://arxiv.org/abs/2312.11392), an efficient and controllable generation framework.
 - [2023.12]: We release [🪄SCEPTER](https://github.com/modelscope/scepter/) library.
+- [2024.07]: Support the inference and training of open-source generative models based on the [DiT](https://arxiv.org/abs/2212.09748) architecture, such as [SD3](https://arxiv.org/pdf/2403.03206) and [PixArt](https://arxiv.org/abs/2310.00426).
 
 
 ## 🖼 Gallery for Recent Works
